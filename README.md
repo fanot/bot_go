@@ -55,7 +55,8 @@ This is a Telegram bot built using the Go programming language and the `go-teleg
 To run the tests, use the following command:
 
 ```bash
-go test ./...
+cd tests
+go test
 ```
 
 ## Project Structure
