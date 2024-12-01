@@ -31,19 +31,8 @@ This is a Telegram bot built using the Go programming language and the `go-teleg
    TELEGRAM_TOKEN=your-telegram-bot-token
    ```
 
-3. **Build and run the bot:**
-
-   You can run the bot directly or use Docker.
-
-   **Directly:**
-
-   ```bash
-   go build -o bot
-   ./bot
-   ```
-
-   **Using Docker:**
-
+3. **Build and run the bot using Docker:**
+4. 
    Build and run the Docker container:
 
    ```bash
